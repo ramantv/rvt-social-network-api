@@ -1,7 +1,7 @@
 # rvt-social-network-api
 A back-end design and API for a Social Network using MongoDB, Mongoose and Express.js
-\## Table of contents
-- [rvt-social-network-api](#rvt-social-network-api)
+
+## Table of contents
   - [General info](#general-info)
   - [User Story](#user-story)
   - [Video Walkthrough](#video-walkthrough)
@@ -33,7 +33,7 @@ As a Social Network creator I want an API for my social network that uses a NoSQ
 * Express.js
   
 ## Licenses
-* MIT license
+![MIT](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE) 
 
 ## Developer(s)
 * [Raman TV.](https://github.com/ramantv)
