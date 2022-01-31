@@ -17,7 +17,8 @@ This application uses MongoDB and Mongoose store unstructured data for a social 
 As a Social Network creator I want an API for my social network that uses a NoSQL database for it's backend the social network can handle any amount of unstructured data
 
 ## Video Walkthrough 
-[Raman TV -- Social Network API Walkthrough] https://youtu.be/kVbqks21kDY
+* [Raman TV - Social Network API Walkthrough Video #1](https://youtu.be/kVbqks21kDY)
+* [Raman TV - Social Network API Walkthrough Video #2](https://youtu.be/E41H9QF-xmU )
 
 ## Setup
 * Clone GitHub repository 
